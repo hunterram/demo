@@ -1,0 +1,172 @@
+.desktop-1-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #2053b7;
+    width: 1440px;
+    height: 63px;
+  }
+  .icon,
+  .icon1 {
+    position: absolute;
+    top: 16px;
+    left: 361px;
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+  }
+  .icon1 {
+    top: 11px;
+    left: 41px;
+    width: 28px;
+    height: 31px;
+  }
+  .ramthapaliya8888gmailcom {
+    position: absolute;
+    top: 15px;
+    left: 79px;
+    font-size: var(--font-size-lg);
+    color: #0e0e0e;
+    display: inline-block;
+    width: 261px;
+    height: 18px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    -webkit-text-stroke: 1px #000;
+  }
+  .div,
+  .icon2 {
+    position: absolute;
+  }
+  .div {
+    top: 15px;
+    left: 407px;
+    font-size: var(--font-size-lg);
+    color: #0b0a0a;
+    display: inline-block;
+    width: 200px;
+    height: 23px;
+  }
+  .icon2 {
+    top: 19px;
+    left: 1136px;
+    width: 30px;
+    height: 25px;
+    object-fit: cover;
+  }
+  .khairahani-10parsachitwan {
+    position: absolute;
+    top: 23px;
+    left: 1172px;
+    font-size: 16px;
+    color: #0b0000;
+    display: inline-block;
+    width: 268px;
+    height: 21px;
+  }
+  .desktop-1-item {
+    position: absolute;
+    top: 63px;
+    left: 10px;
+    background-color: #fffdfd;
+    width: 1440px;
+    height: 89px;
+  }
+  .screenshot-1-1 {
+    position: absolute;
+    top: 63px;
+    left: 14px;
+    width: 82px;
+    height: 78px;
+    object-fit: cover;
+  }
+  .about-us,
+  .home,
+  .news,
+  .services
+  .contact-us {
+    position: absolute;
+    top: 94px;
+    display: inline-block;
+    width: 132px;
+    height: 34px;
+  }
+  .home {
+    left: 844px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    -webkit-text-stroke: 1px #000;
+  }
+  .about-us,
+  .news,
+  .services {
+    left: 964px;
+  }
+  .about-us,
+  .news {
+    left: 1136px;
+  }
+  .about-us {
+    left: 1287px;
+  }
+  .desktop-1-inner {
+    position: absolute;
+    top: 160px;
+    left: 0;
+    background-color: #d9d9d9;
+    width: 1440px;
+    height: 577px;
+  }
+  .pexels-photo-1194713-1-icon {
+    position: absolute;
+    top: 152px;
+    left: 0;
+    width: 1440px;
+    height: 872px;
+    object-fit: cover;
+  }
+  .you-can-also {
+    margin: 0;
+  }
+  .you-can-also-container {
+    position: absolute;
+    top: 518px;
+    left: 309px;
+    font-size: 49px;
+    font-weight: 800;
+    color: var(--color-white);
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 628px;
+    height: 276px;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 767px;
+    left: 309px;
+    border-radius: 20px;
+    background-color: #8b20b0;
+    width: 281px;
+    height: 54px;
+  }
+  .visits-our-work {
+    position: absolute;
+    top: 775px;
+    left: 344px;
+    font-size: 26px;
+    font-weight: 800;
+    color: var(--color-white);
+    display: inline-block;
+    width: 211px;
+    height: 37px;
+  }
+  .desktop-1 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  
